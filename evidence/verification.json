@@ -1,0 +1,35 @@
+{
+  "record_version": "1.0",
+  "recorded_date": "2026-08-10",
+  "project": "OMEGA Event Triage",
+  "public_record_scope": "evidence_only",
+  "implementation_status": "private",
+  "original_release": {
+    "version": "v0.1.0",
+    "tag_commit": "3f9525341779a747680dc44f943a04b58b4d09e6",
+    "main_commit_at_containment": "d37f3eda2b79fbc850adb05230ad2fd5ee8d85dc",
+    "wheel_sha256": "0f6113accfc2a8404a2e3bf8033566f3b60eba8fa9896f0e2d053f8e058e58b6",
+    "benchmark_evidence_zip_sha256": "bb7c8fa2396f2ec27e8a22da797fb31cd25cf9d72df72333e32b6c95e9206993"
+  },
+  "benchmark": {
+    "targets": 1000,
+    "method_records": 2180,
+    "local_audit_checks_passed": 22,
+    "server_audit_checks_passed": 22,
+    "test_positive_targets": 300,
+    "injected_test_positive_targets": 298,
+    "real_catalog_test_positive_targets": 2,
+    "omega_exact_recoveries": 9,
+    "omega_real_catalog_exact_recoveries": 0,
+    "comparative_advantage_claim_supported": false
+  },
+  "frozen_anchors": {
+    "scientific_source_sha256": "6fd148df2093589461ff1dcb7f2a2d128ce43fc4b90cb11c65bc538a05e7b4bc",
+    "candidate_pool_sha256": "0ef9e72088b4d84fb5e62c36d6768b4cedfc9ac5290ba6d981e6370e78e7f895",
+    "target_list_sha256": "c537982e138772aabbdfa205773b96eb275fa1bd6877d7bddaebac665372ba6f",
+    "recipe_sha256": "4b1c16daf816119535da27fa2f13c30ddf56a2aa57dbde061b0a8ef3a350a24f",
+    "input_sha256": "5c51cf78184c679389a46daf90fef2c5b6ce45cb95eb38fad2b678a894e0a570",
+    "threshold_sha256": "311061f8d4f2b8900e10f9299c2e92de478199c9f9a96242072bcc7fc0cf52a1"
+  },
+  "claim_boundary": "The locked benchmark does not establish general or real-sky superiority."
+}

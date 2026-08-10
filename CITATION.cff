@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "OMEGA Event Triage: Public Evidence Showcase"
+message: "Cite this repository as the public evidence record, not as a scientific discovery or peer-reviewed publication."
+type: dataset
+authors:
+  - family-names: Barrientos
+    given-names: Henry
+version: 1.0.0
+date-released: 2026-08-10
+repository-code: "https://github.com/henrybarrientos27/omega-evidence-showcase"
+
