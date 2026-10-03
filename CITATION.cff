@@ -9,3 +9,14 @@ version: 1.0.0
 date-released: 2026-08-10
 repository-code: "https://github.com/henrybarrientos27/omega-evidence-showcase"
 
+references:
+  - type: article
+    title: "Five TESS Eclipses of TIC 31065777 at a 40.5717 day Period"
+    authors:
+      - family-names: Barrientos
+        given-names: Henry
+    journal: "Research Notes of the AAS"
+    year: 2026
+    volume: "10"
+    start: "242"
+    doi: "10.3847/2515-5172/ae9b07"

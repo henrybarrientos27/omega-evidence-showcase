@@ -43,20 +43,20 @@ OMEGA replaces professional astronomy software. It is whether an auditable,
 human-in-the-loop queue can reduce review time without hiding events that a
 researcher considers important.
 
-## Why this is a serious student-research project
+## Research context
 
-The result is not presented as a breakthrough. The evidence shows a complete
-research cycle:
+The related [TIC 31065777 Research Note](https://doi.org/10.3847/2515-5172/ae9b07) was published in
+*Research Notes of the AAS* **10**, 242 (2026). It reports five recurring
+eclipse-like events and leaves the companion class unresolved. It is a
+[moderated, non-peer-reviewed note](https://journals.aas.org/research-notes/),
+not a validation of OMEGA's detection performance.
 
-1. a public-data observation became a reproducible case study;
-2. a scaling idea became a frozen comparative benchmark;
-3. the benchmark exposed limits instead of confirming the hoped-for claim;
-4. those limits changed the product question;
-5. the next pilot has measurable success and failure gates.
+## For a researcher reviewing this project
 
-The strongest accomplishment is the willingness and technical ability to
-design a test that could reject the original idea, preserve the rejection, and
-use it to choose the next experiment.
+Start with the [five-minute evidence tour](docs/RESEARCHER_TOUR.md). It uses
+only the sample image and benchmark evidence already in this repository.
+The image above is an output of the historical event-triage workflow, not a
+screenshot of a released OMEGA Pro application.
 
 ## Evidence map
 

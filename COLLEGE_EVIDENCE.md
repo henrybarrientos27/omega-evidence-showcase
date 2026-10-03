@@ -44,8 +44,7 @@ wrong and changing direction when the evidence does.
 - Astronomers use OMEGA, until independent use is verified.
 - OMEGA is profitable or commercially validated.
 - TASM, NASA, TESS, MAST, a university, or any researcher endorses OMEGA.
-- The TIC 31065777 manuscript is journal-published or peer-reviewed unless
-  that status is verified directly.
+- The TIC 31065777 Research Note is peer-reviewed (RNAAS is non-peer-reviewed).
 
 ## Honest AI-authorship answer
 
@@ -57,3 +56,9 @@ and repository work. I did not treat generated code or prose as scientific
 evidence; I required tests, frozen inputs, hashes, completion audits, and
 manual review.
 
+
+## Publication update
+
+The [TIC 31065777 Research Note](https://doi.org/10.3847/2515-5172/ae9b07) was published in RNAAS on
+August 20, 2026 (10, 242). This establishes publication, not peer review, a
+confirmed planet, or OMEGA detector validation.
